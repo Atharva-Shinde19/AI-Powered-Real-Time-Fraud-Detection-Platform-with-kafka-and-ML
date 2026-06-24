@@ -1,0 +1,6 @@
+# Add your Python dependencies here
+# Example:
+# kafka-python
+# pyspark
+# scikit-learn
+# pandas
