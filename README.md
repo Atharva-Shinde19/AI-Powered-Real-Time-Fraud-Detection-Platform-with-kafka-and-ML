@@ -125,6 +125,39 @@ FraudDetectionProject/
 
 ---
 
+# 📸 Screenshots
+
+## Main Dashboard
+
+> Add Screenshot Here
+
+![Dashboard](assets/ui1.png)
+
+---
+
+## Fraud Risk Analytics
+
+> Add Screenshot Here
+
+![Fraud Analytics](screenshots/fraud_analytics.png)
+
+---
+
+## Fraud Trend Monitoring
+
+> Add Screenshot Here
+
+![Fraud Trend](screenshots/fraud_trend.png)
+
+---
+
+## Recent Fraud Alerts
+
+> Add Screenshot Here
+
+![Fraud Alerts](screenshots/fraud_alerts.png)
+
+---
 # 🤖 Machine Learning Model
 
 ## Model Used
@@ -236,39 +269,6 @@ Dashboard automatically refreshes and displays:
 
 ---
 
-# 📸 Screenshots
-
-## Main Dashboard
-
-> Add Screenshot Here
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Fraud Risk Analytics
-
-> Add Screenshot Here
-
-![Fraud Analytics](screenshots/fraud_analytics.png)
-
----
-
-## Fraud Trend Monitoring
-
-> Add Screenshot Here
-
-![Fraud Trend](screenshots/fraud_trend.png)
-
----
-
-## Recent Fraud Alerts
-
-> Add Screenshot Here
-
-![Fraud Alerts](screenshots/fraud_alerts.png)
-
----
 
 # 🚀 Application Workflow
 
