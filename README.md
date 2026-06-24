@@ -131,7 +131,7 @@ FraudDetectionProject/
 
 > Add Screenshot Here
 
-![Dashboard](assets/ui1.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
