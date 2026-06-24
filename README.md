@@ -1,4 +1,4 @@
-````markdown
+
 # 🚨 AI-Powered Real-Time Fraud Detection Platform
 
 A production-style real-time fraud detection system built using **Apache Kafka**, **Machine Learning**, and **Streamlit**. The platform continuously processes transaction streams, applies fraud prediction using a trained Random Forest model, and visualizes fraud activity through an interactive monitoring dashboard.
@@ -34,7 +34,7 @@ The system automatically identifies suspicious transactions, generates fraud ale
 
 # 🏗️ System Architecture
 
-```text
+```markdown
 Credit Card Transactions
             │
             ▼
