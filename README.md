@@ -155,7 +155,7 @@ FraudDetectionProject/
 
 > Add Screenshot Here
 
-![Fraud Alerts](screenshots/fraud_alerts.png)
+![Fraud Alerts](screenshots/fraud_alert.png)
 
 ---
 # 🤖 Machine Learning Model
